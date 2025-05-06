@@ -105,3 +105,37 @@ body{
     margin-top: 10px;
     display: none;
 }
+@media (max-width: 500px) {
+    .search {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .search input {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    .details {
+        flex-direction: column;
+        gap: 20px;
+        padding: 0;
+    }
+
+    .card {
+        padding: 30px 20px;
+        margin: 50px auto 0;
+    }
+
+    .weather h1 {
+        font-size: 60px;
+    }
+
+    .weather h2 {
+        font-size: 35px;
+    }
+
+    .weather-icon {
+        width: 130px;
+    }
+}
