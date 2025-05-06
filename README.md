@@ -7,7 +7,7 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 
 ## 📸 Preview
 
-![Weather App Screenshot](assets/weather-app.png)
+![Weather App Screenshot](weather-app.png)
 
 
 ## 🚀 Features
@@ -18,16 +18,12 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 - ⚠️ Error handling for invalid city names
 - 📱 Responsive design
 
----
-
 ## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 - [OpenWeatherMap API](https://openweathermap.org/api)
-
----
 
 ## ⚙️ How to Use
 
